@@ -1,9 +1,8 @@
 {
-    "version": "31",
+    "version": "32",
     "actions": [
         {
-            "type": "popUp",
-            "message": "This is a a test ~"
+            "type": "uploadScreenshot"
         }
     ]
 }
