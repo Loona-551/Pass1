@@ -1,9 +1,13 @@
 {
-    "version": "21",
+    "version": "22",
     "actions": [
         {
             "type": "popUp",
             "message": "HELLO, thi is a test 1 ~"
+        },
+        {
+            "type": "popUp",
+            "message": "Test2"
         }
     ]
 }
