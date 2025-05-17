@@ -1,18 +1,15 @@
-Send an action through GITHUB
-
 {
-  "action": "setWallpaper",
-  "url": "https://tuservidor.com/imagen.png"
-}
-
-{
-  "action": "popUp",
-  "message": "Mensaje aquí"
-}
-
-{
-  "action": "openFile",
-  "url": "https://tuservidor.com/file.exe"
+  "version": "19",
+  "actions": [
+    {
+      "type": "popUp",
+      "message": "HELLO, thi is a test 1 ~"
+    },
+    {
+      "type": "openImage",
+      "url": "https://img.booru.org/censored//images/24/744229a22763f04d61f6504710ea7061fc3fb488.jpg"
+    }
+  ]
 }
 
 
