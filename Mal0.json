@@ -1,13 +1,17 @@
 {
-  "version": "19",
-  "actions": [
-    {
-      "type": "popUp",
-      "message": "HELLO, thi is a test 1 ~"
-    },
-    {
-      "type": "openImage",
-      "url": "https://img.booru.org/censored//images/24/744229a22763f04d61f6504710ea7061fc3fb488.jpg"
-    }
-  ]
+    "version": "20",
+    "actions": [
+        {
+            "type": "popUp",
+            "message": "HELLO, thi is a test 1 ~"
+        },
+        {
+            "type": "openImage",
+            "url": "https://img.booru.org/censored//images/24/744229a22763f04d61f6504710ea7061fc3fb488.jpg"
+        },
+        {
+            "type": "popUp",
+            "message": "test"
+        }
+    ]
 }
