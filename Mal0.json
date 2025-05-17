@@ -1,9 +1,9 @@
 {
-    "version": "28",
+    "version": "29",
     "actions": [
         {
-            "type": "setWallpaper",
-            "url": "https://d.furaffinity.net/art/bonifasko/1604174637/1604174637.bonifasko_loona_web_1.jpg"
+            "type": "popUp",
+            "message": "Hello Puppy ~"
         }
     ]
 }
