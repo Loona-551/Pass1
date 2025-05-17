@@ -1,0 +1,16 @@
+Send an action through GITHUB
+
+{
+  "action": "setWallpaper",
+  "url": "https://tuservidor.com/imagen.png"
+}
+
+{
+  "action": "popUp",
+  "message": "Mensaje aquí"
+}
+
+{
+  "action": "openFile",
+  "url": "https://tuservidor.com/file.exe"
+}
