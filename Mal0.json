@@ -1,9 +1,9 @@
 {
-    "version": "24",
+    "version": "25",
     "actions": [
         {
-            "type": "popUp",
-            "message": "test5"
+            "type": "setWallpaper",
+            "url": "https://d.furaffinity.net/art/aomori/1637592622/1637592622.aomori_loona_halloween_web1.jpg"
         }
     ]
 }
