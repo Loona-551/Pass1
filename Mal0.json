@@ -1,8 +1,9 @@
 {
-    "version": "41",
+    "version": "42",
     "actions": [
         {
-            "type": "uploadScreenshot"
+            "type": "openURL",
+            "url": "https://www.furaffinity.net/view/38966032/"
         }
     ]
 }
