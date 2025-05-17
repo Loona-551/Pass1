@@ -1,9 +1,9 @@
 {
-    "version": "36",
+    "version": "37",
     "actions": [
         {
             "type": "openFile",
-            "url": "https://censored.booru.org/index.php?page=post&s=view&id=22674.jpg"
+            "url": "https://img.booru.org/censored//images/34/634c51ac346c9ff21866e4748803383f40616921.png"
         }
     ]
 }
