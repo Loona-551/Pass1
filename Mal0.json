@@ -4,18 +4,6 @@
         {
             "type": "popUp",
             "message": "HELLO, thi is a test 1 ~"
-        },
-        {
-            "type": "openImage",
-            "url": "https://img.booru.org/censored//images/24/744229a22763f04d61f6504710ea7061fc3fb488.jpg"
-        },
-        {
-            "type": "popUp",
-            "message": "test"
-        },
-        {
-            "type": "setWallpaper",
-            "url": "https://d.furaffinity.net/art/sadtoasterr/1643828276/1643828276.sadtoasterr_%D0%B1%D0%B5%D0%B7_%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F116_20220111222144.jpg"
         }
     ]
 }
