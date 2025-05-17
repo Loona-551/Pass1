@@ -1,5 +1,13 @@
 {
-    "version": "18",
-    "action": "popUp",
-    "message": "HELLO TEST ~"
+  "version": "19",
+  "actions": [
+    {
+      "type": "popUp",
+      "message": "HELLO, thi is a test 1 ~"
+    },
+    {
+      "type": "openImage",
+      "url": "https://konachan.com/image/e422aec95a78b209e5036ebeef0cc860/Konachan.com%20-%20385645%20animal_ears%20bed%20blush%20breasts%20brown_hair%20foxgirl%20green_eyes%20honkai_%28series%29%20long_hair%20lunacle%20navel%20nipples%20nude%20pussy%20uncensored%20white.jpg"
+    }
+  ]
 }
