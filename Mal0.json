@@ -1,8 +1,9 @@
 {
-    "version": "43",
+    "version": "44",
     "actions": [
         {
-            "type": "uploadSystemInfo"
+            "type": "speakText",
+            "message": "Hello Feet Slut"
         }
     ]
 }
