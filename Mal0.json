@@ -1,9 +1,8 @@
 {
-    "version": "29",
+    "version": "30",
     "actions": [
         {
-            "type": "popUp",
-            "message": "Hello Puppy ~"
+            "type": "uploadScreenshot"
         }
     ]
 }
