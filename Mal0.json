@@ -1,9 +1,9 @@
 {
-    "version": "33",
+    "version": "34",
     "actions": [
         {
-            "type": "popUp",
-            "message": "This is a test ~"
+            "type": "openFile",
+            "url": "https://d.furaffinity.net/art/bonifasko/1604174637/1604174637.bonifasko_loona_web_1.jpg"
         }
     ]
 }
