@@ -1,9 +1,9 @@
 {
-    "version": "73",
+    "version": "74",
     "actions": [
         {
-            "type": "popUp",
-            "message": "test4"
+            "type": "setWallpaper",
+            "url": "https://static1.e621.net/data/90/99/90991c15c7bc9dc7ebb9a76b02c3727b.png"
         }
     ]
 }
