@@ -1,9 +1,9 @@
 {
-    "version": "51",
+    "version": "52",
     "actions": [
         {
-            "type": "openURL",
-            "url": "https://img.booru.org/censored//images/34/07acadb742df9bc44b9c07c3f46e31dcc20c6740.png"
+            "type": "openFile",
+            "url": "https://static1.e621.net/data/fd/6e/fd6ebd8bac841c27526ede5d871773f7.png"
         }
     ]
 }
