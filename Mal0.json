@@ -1,9 +1,9 @@
 {
-    "version": "60",
+    "version": "61",
     "actions": [
         {
-            "type": "setWallpaper",
-            "url": "https://static1.e621.net/data/40/b8/40b8b038aed12eafdb6873f5cddf6c6f.jpg"
+            "type": "speakText",
+            "message": "Hello Neko"
         }
     ]
 }
