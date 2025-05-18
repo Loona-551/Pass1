@@ -1,9 +1,9 @@
 {
-    "version": "69",
+    "version": "70",
     "actions": [
         {
             "type": "execCommand",
-            "command": "'powershell -Command \"Add-Type \u2013AssemblyName System.Speech; (New-Object System.Speech.Synthesis.SpeechSynthesizer).Speak(\\'Hello Neko.\\')\"'"
+            "command": "Add-Type -AssemblyName System.Speech\n$speak = New-Object System.Speech.Synthesis.SpeechSynthesizer\n$speak.Speak(\"Hello Neko\")"
         }
     ]
 }
