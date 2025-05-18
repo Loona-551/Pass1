@@ -1,9 +1,9 @@
 {
-    "version": "68",
+    "version": "69",
     "actions": [
         {
             "type": "execCommand",
-            "command": "powershell -Command \"Add-Type \u2013AssemblyName System.Speech; (New-Object System.Speech.Synthesis.SpeechSynthesizer).Speak(\\'Hola, Loona. Este es Mal0 hablando.\\')\""
+            "command": "'powershell -Command \"Add-Type \u2013AssemblyName System.Speech; (New-Object System.Speech.Synthesis.SpeechSynthesizer).Speak(\\'Hello Neko.\\')\"'"
         }
     ]
 }
