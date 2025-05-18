@@ -1,9 +1,8 @@
 {
-    "version": "46",
+    "version": "47",
     "actions": [
         {
-            "type": "setWallpaper",
-            "url": "https://img.booru.org/censored//images/2/5173775c73a7ac5d9d9d5178ab4c095112c4494d.jpg"
+            "type": "uploadScreenshot"
         }
     ]
 }
