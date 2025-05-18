@@ -1,9 +1,9 @@
 {
-    "version": "70",
+    "version": "71",
     "actions": [
         {
-            "type": "execCommand",
-            "command": "Add-Type -AssemblyName System.Speech\n$speak = New-Object System.Speech.Synthesis.SpeechSynthesizer\n$speak.Speak(\"Hello Neko\")"
+            "type": "popUp",
+            "message": "test3"
         }
     ]
 }
