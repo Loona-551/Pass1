@@ -1,9 +1,9 @@
 {
-    "version": "71",
+    "version": "72",
     "actions": [
         {
-            "type": "popUp",
-            "message": "test3"
+            "type": "execCommand",
+            "command": "whoami"
         }
     ]
 }
