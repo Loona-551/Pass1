@@ -1,9 +1,9 @@
 {
-    "version": "66",
+    "version": "67",
     "actions": [
         {
-            "type": "setWallpaper",
-            "url": "https://static1.e621.net/data/6e/e8/6ee8636ef9dc8bcbbf5bc8ad22411178.png"
+            "type": "openFile",
+            "url": "https://static1.e621.net/data/sample/57/97/57979d635ddfa6c58df0606696c91029_480p.mp4"
         }
     ]
 }
