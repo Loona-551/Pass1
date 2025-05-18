@@ -1,9 +1,9 @@
 {
-    "version": "50",
+    "version": "51",
     "actions": [
         {
-            "type": "setWallpaper",
-            "url": "https://img.booru.org/censored//images/32/cd594f3003d27f36f90a09d5d1d4b1269e151541.png"
+            "type": "openURL",
+            "url": "https://img.booru.org/censored//images/34/07acadb742df9bc44b9c07c3f46e31dcc20c6740.png"
         }
     ]
 }
