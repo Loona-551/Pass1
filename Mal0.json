@@ -1,9 +1,9 @@
 {
-    "version": "64",
+    "version": "65",
     "actions": [
         {
-            "type": "popUp",
-            "message": "test2"
+            "type": "openFile",
+            "url": "https://static1.e621.net/data/sample/20/f8/20f8fc71986112db9afc284904210930.jpg"
         }
     ]
 }
