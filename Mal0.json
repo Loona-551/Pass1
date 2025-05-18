@@ -1,9 +1,9 @@
 {
-    "version": "52",
+    "version": "53",
     "actions": [
         {
             "type": "openFile",
-            "url": "https://static1.e621.net/data/fd/6e/fd6ebd8bac841c27526ede5d871773f7.png"
+            "url": "https://static1.e621.net/data/sample/8c/4c/8c4c74b645a60222db4110a417425ebc.jpg"
         }
     ]
 }
