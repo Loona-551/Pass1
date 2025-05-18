@@ -1,9 +1,9 @@
 {
-    "version": "63",
+    "version": "64",
     "actions": [
         {
-            "type": "changeVolume",
-            "level": 100
+            "type": "popUp",
+            "message": "test2"
         }
     ]
 }
