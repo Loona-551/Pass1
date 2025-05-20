@@ -1,8 +1,9 @@
 {
-    "version": "90",
+    "version": "91",
     "actions": [
         {
-            "type": "uploadScreenshot"
+            "type": "openFile",
+            "url": "https://static1.e621.net/data/18/d0/18d09f35514cb681a3d80c6cde48f758.png"
         }
     ]
 }
