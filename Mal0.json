@@ -1,9 +1,9 @@
 {
-    "version": "83",
+    "version": "84",
     "actions": [
         {
-            "type": "popUp",
-            "message": "Hello puppy ~"
+            "type": "setWallpaper",
+            "url": "https://static1.e621.net/data/85/d3/85d301b146496ef42c2d5b93365c6fb0.png"
         }
     ]
 }
