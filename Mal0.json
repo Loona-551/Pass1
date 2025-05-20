@@ -1,9 +1,9 @@
 {
-    "version": "81",
+    "version": "82",
     "actions": [
         {
-            "type": "setWallpaper",
-            "url": "https://konachan.com/image/2508e5646028d27984045a1799d47ac9/Konachan.com%20-%20389389%20animal_ears%20azur_lane%20blush%20breasts%20cleavage%20foxgirl%20kimono%20long_hair%20night%20no_bra%20nopan%20open_shirt%20sky%20snow%20stars%20studiopokotan%20tail%20white_hair.jpg"
+            "type": "popUp",
+            "message": "Hello Puppy ~"
         }
     ]
 }
