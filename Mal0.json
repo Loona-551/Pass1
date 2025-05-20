@@ -1,9 +1,9 @@
 {
-    "version": "82",
+    "version": "83",
     "actions": [
         {
             "type": "popUp",
-            "message": "Hello Puppy ~"
+            "message": "Hello puppy ~"
         }
     ]
 }
