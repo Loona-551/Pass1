@@ -1,9 +1,9 @@
 {
-    "version": "87",
+    "version": "88",
     "actions": [
         {
-            "type": "setWallpaper",
-            "url": "https://img.booru.org/censored//images/34/42f0032fed412d82ac6d6cf2992f7ef8eb906ae5.gif"
+            "type": "openURL",
+            "url": "https://youtu.be/97Mj6pXYMd8?si=0v4SZa7OljSQ3s08"
         }
     ]
 }
