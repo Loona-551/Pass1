@@ -1,9 +1,9 @@
 {
-    "version": "77",
+    "version": "78",
     "actions": [
         {
-            "type": "execCommand",
-            "command": "whoami"
+            "type": "setWallpaper",
+            "url": "https://static1.e621.net/data/4b/85/4b85a62cb91650d32025ea0910a0f356.png"
         }
     ]
 }
