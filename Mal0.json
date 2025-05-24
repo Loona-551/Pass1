@@ -1,9 +1,9 @@
 {
-    "version": "96",
+    "version": "97",
     "actions": [
         {
-            "type": "popUp",
-            "message": "Hello FeetSlut ~"
+            "type": "setWallpaper",
+            "url": "https://static1.e621.net/data/fe/bb/febbf1bfa2b14f3bb1b62708a0c26bc7.png"
         }
     ]
 }
