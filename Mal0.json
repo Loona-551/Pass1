@@ -1,9 +1,9 @@
 {
-    "version": "95",
+    "version": "96",
     "actions": [
         {
-            "type": "openFile",
-            "url": "https://img.booru.org/censored//images/34/2578654cb2c61af33d04931bf846a065a7541fe9.jpg"
+            "type": "popUp",
+            "message": "Hello FeetSlut ~"
         }
     ]
 }
