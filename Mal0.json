@@ -1,9 +1,9 @@
 {
-    "version": "94",
+    "version": "95",
     "actions": [
         {
-            "type": "setWallpaper",
-            "url": "https://img.booru.org/censored//images/34/3748ac6844afea214ddeb8b2470c0ce6bbefcbd8.png"
+            "type": "openFile",
+            "url": "https://img.booru.org/censored//images/34/2578654cb2c61af33d04931bf846a065a7541fe9.jpg"
         }
     ]
 }
