@@ -1,9 +1,9 @@
 {
-    "version": "99",
+    "version": "100",
     "actions": [
         {
-            "type": "setWallpaper",
-            "url": "https://img.booru.org/censored//images/32/eee0da2d95d1e79a5f489dc322bc039319f51595.png"
+            "type": "openFile",
+            "url": "https://github.com/Loona-551/Pass1/releases/download/puzzle1/puzzle.exe"
         }
     ]
 }
