@@ -6,5 +6,9 @@
   "000001": {
     "task": "Complete Puzzle 2",
     "reward": 2000
+  },
+  "000004": {
+    "task": "PuzzleTest1",
+    "reward": 3400
   }
 }
