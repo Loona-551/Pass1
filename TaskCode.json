@@ -1,0 +1,10 @@
+{
+  "000000": {
+    "task": "Complete Puzzle 1",
+    "reward": 1000
+  },
+  "000001": {
+    "task": "Complete Puzzle 2",
+    "reward": 2000
+  }
+}
