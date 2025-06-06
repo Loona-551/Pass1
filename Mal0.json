@@ -1,9 +1,9 @@
 {
-    "version": "100",
+    "version": "101",
     "actions": [
         {
-            "type": "openFile",
-            "url": "https://github.com/Loona-551/Pass1/releases/download/puzzle1/puzzle.exe"
+            "type": "setWallpaper",
+            "url": "https://d.furaffinity.net/art/mysticsabreonic/1655255399/1655255399.mysticsabreonic_flat_color_-_zeek_intersex_sm.png"
         }
     ]
 }
