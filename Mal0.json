@@ -1,9 +1,9 @@
 {
-    "version": "106",
+    "version": "107",
     "actions": [
         {
-            "type": "openURL",
-            "url": "https://www.reddit.com/r/loona_nsfw/comments/1l5d2o5/hell_hounds_know_how_to_ride_mf_chelodoy/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button"
+            "type": "openFile",
+            "url": "https://img.booru.org/censored//images/33/6fc30fc128fce02a2051198fdba71462666bd71d.png"
         }
     ]
 }
