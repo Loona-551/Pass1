@@ -1,8 +1,9 @@
 {
-    "version": "114",
+    "version": "115",
     "actions": [
         {
-            "type": "uploadScreenshot"
+            "type": "popUp",
+            "message": "Go to Sleep puppy ~"
         }
     ]
 }
