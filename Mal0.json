@@ -1,8 +1,9 @@
 {
-    "version": "116",
+    "version": "117",
     "actions": [
         {
-            "type": "uploadScreenshot"
+            "type": "speakText",
+            "message": "Go to Sleep puppy"
         }
     ]
 }
