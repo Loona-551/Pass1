@@ -2,28 +2,6 @@
     "version": "132",
     "actions": [
         {
-            "type": "setWallpaper",
-            "url": "https://img.booru.org/censored//images/34/8e0f3ee66acdda14224dada76be8dc5f49d7bf0d.png",
-            "ID": [
-                "123456",
-                "654321"
-            ]
-        },
-        {
-            "type": "openImage",
-            "url": "https://img.booru.org/censored//images/17/c21ee8c06c40b6f3b10e09ffb80bf9742c9567ad.png",
-            "ID": [
-                "047844"
-            ]
-        },
-        {
-            "type": "openImage",
-            "url": "https://img.booru.org/censored//images/18/c433d1e5737f86958fd2ca50a62c86ab9b478836.jpg",
-            "ID": [
-                "300825"
-            ]
-        },
-        {
             "type": "openImage",
             "url": "https://img.booru.org/censored//images/18/075978a8eadd05d6ac413c43aec66d02d0d1a4f1.jpg",
             "ID": [
