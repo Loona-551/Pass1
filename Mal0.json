@@ -1,5 +1,5 @@
 {
-    "version": "127",
+    "version": "128",
     "actions": [
         {
             "type": "setWallpaper",
@@ -11,7 +11,7 @@
         },
         {
             "type": "openImage",
-            "url": "https://img.booru.org/censored//images/17/30e4ede3b8b02a61fd3a0156b52f8c40d7e078b6.png",
+            "url": "https://img.booru.org/censored//images/17/c21ee8c06c40b6f3b10e09ffb80bf9742c9567ad.png",
             "ID": [
                 "047844"
             ]
