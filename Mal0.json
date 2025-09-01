@@ -1,9 +1,8 @@
 {
-    "version": "132",
+    "version": "133",
     "actions": [
         {
-            "type": "openImage",
-            "url": "https://img.booru.org/censored//images/18/075978a8eadd05d6ac413c43aec66d02d0d1a4f1.jpg",
+            "type": "lockScreen",
             "ID": [
                 "975435"
             ]
