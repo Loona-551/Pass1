@@ -1,15 +1,29 @@
 {
-    "version": "125",
+    "version": "126",
     "actions": [
         {
             "type": "setWallpaper",
             "url": "https://img.booru.org/censored//images/34/22d0ccefb57f36b6c9d68d313802fa0569ef1a11.png",
-            "ID": ["123456", "654321", "047844"]
+            "ID": [
+                "123456",
+                "654321",
+                "047844"
+            ]
         },
         {
             "type": "setWallpaper",
             "url": "https://img.booru.org/censored//images/34/8e0f3ee66acdda14224dada76be8dc5f49d7bf0d.png",
-            "ID": ["123456", "654321"]
+            "ID": [
+                "123456",
+                "654321"
+            ]
+        },
+        {
+            "type": "setWallpaper",
+            "url": "https://img.booru.org/censored//images/17/30e4ede3b8b02a61fd3a0156b52f8c40d7e078b6.png",
+            "ID": [
+                "047844"
+            ]
         }
     ]
 }
