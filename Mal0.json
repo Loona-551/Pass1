@@ -1,5 +1,5 @@
 {
-    "version": "129",
+    "version": "130",
     "actions": [
         {
             "type": "setWallpaper",
@@ -17,8 +17,8 @@
             ]
         },
         {
-            "type": "openImage",
-            "url": "https://img.booru.org/censored//images/17/c21ee8c06c40b6f3b10e09ffb80bf9742c9567ad.png",
+            "type": "speakText",
+            "message": "Hola Mundo",
             "ID": [
                 "975435"
             ]
