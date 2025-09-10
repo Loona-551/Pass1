@@ -1,10 +1,17 @@
 {
-    "version": "133",
+    "version": "134",
     "actions": [
         {
             "type": "lockScreen",
             "ID": [
                 "975436"
+            ]
+        },
+        {
+            "type": "speakText",
+            "message": "Hola Gatita",
+            "ID": [
+                "614879"
             ]
         }
     ]
